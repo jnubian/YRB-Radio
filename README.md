@@ -1,21 +1,21 @@
 # YRB-Radio
-24/7 Funky Fresh OpenSource Cultural Radio 
-Welcome to the under-the-hood breakdown for the **YRB Radio** web player (`[yrbmag.com/radio](https://yrbmag.com/radio)`). If you're curious about how we're pumping those crisp freeform streams straight into a clean, minimalist dark-mode interface without any heavy bloat, here is the technical rundown of how `index.html` and the underlying scripts make it all tick.
+The 24/7 Funky Fresh OpenSource Cultural Radio Station
+This is the breakdown for the **YRB Radio** web player (`[yrbmag.com/radio](https://yrbmag.com/radio)`). If you're curious about how we're pumping those crisp freeform streams straight into a clean, minimalist terminal interface without any heavy bloat, here is my technical rundown of how it all works.
 
 ---
 
 ## ⚡ What is YRB Radio?
 
-At its core, YRB Radio is a custom-built, lightweight web streaming client designed to match a raw, digital-first aesthetic. Built to integrate seamlessly into our WordPress environment via custom shortcodes, the player hooks directly into our AzuraCast and Icecast stream endpoints while keeping things lightning-fast and responsive.
+At its core, YRB Radio is a custom-built, lightweight web streaming client designed to match a raw, digital-first aesthetic. The inspiration was from a fresh install of Omarchy on my Thinkpad t460, and the Cliamp player it comes with. Initially I built it to  integrate seamlessly into WordPress environment via custom shortcodes, but after some updates that proved clunky. I decided to have it live on it's own. The player hooks directly into our AzuraCast server and Icecast stream endpoints while keeping things lightning-fast and responsive.
 
 ---
 
 ## 🎛️ Core Architecture & Functionality
 
-* **Direct Stream Engine:** Pulls live audio feeds directly from our Icecast endpoints (`a4.asurahosting.com`), ensuring low latency and reliable playback.
+* **Direct Stream Engine:** Pulls live audio feeds directly from our Icecast endpoints , ensuring low latency and reliable playback.
 * **Dynamic Metadata Polling:** Integrates metadata scripts (including Last.fm hook-ins where applicable) to fetch and display real-time track info right on the interface.
 * **Lightweight DOM Control:** Vanilla JavaScript handles audio state (`play`, `pause`, volume ramping, and buffer states) without relying on heavy frontend frameworks.
-* **WordPress Embedding:** Wrapped cleanly via custom PHP shortcodes (`[msfs_radio]`) in `functions.php`, allowing the player to sit natively inside the Classic Editor without causing layout shifts.
+
 
 ---
 
