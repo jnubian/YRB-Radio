@@ -82,6 +82,5 @@ Since I'm a text-based collaborator and can't spit out actual PNG screenshots, I
 
 * **Markup & Styling:** HTML5, CSS3 (utilizing dark-mode glassmorphism touches and clean monospace fonts).
 * **Logic:** Vanilla ES6 JavaScript for media element control and async metadata fetching.
-* **Backend / Delivery:** WordPress (`functions.php` PHP shortcodes), AzuraCast, and direct Icecast stream hosting.
+* **Backend / Delivery:**  AzuraCast, and direct Icecast stream hosting.
 
-Let me know if you want to tweak any of the JavaScript event listeners for the stream state or add some extra CSS flair to the player container!
