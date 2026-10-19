@@ -1,12 +1,12 @@
 # YRB-Radio
 The 24/7 Funky Fresh OpenSource Cultural Radio Station
-This is the breakdown for the **YRB Radio** web player (`[yrbmag.com/radio](https://yrbmag.com/radio)`). If you're curious about how we're pumping those crisp freeform streams straight into a clean, minimalist terminal interface without any heavy bloat, here is my technical rundown of how it all works.
+This is the breakdown for the **YRB Radio** web player (`[yrbmag.com/radio](https://yrbmag.com/radio)`). I wanted  a clean, minimalist terminal interface that worked well on desktop and mobile. This is how it all works.
 
 ---
 
 ## ⚡ What is YRB Radio?
 
-At its core, YRB Radio is a custom-built, lightweight web streaming client designed to match a raw, digital-first aesthetic. The inspiration was from a fresh install of Omarchy on my Thinkpad t460, and the Cliamp player it comes with. Initially I built it to  integrate seamlessly into WordPress environment via custom shortcodes, but after some updates that proved clunky. I decided to have it live on it's own. The player hooks directly into our AzuraCast server and Icecast stream endpoints while keeping things lightning-fast and responsive.
+At its core, YRB Radio is a custom-built, lightweight web streaming client designed to match a raw, digital-first aesthetic. The inspiration was from a fresh install of Omarchy on my Thinkpad t460, and the Cliamp player it comes with. Initially I built it to  integrate seamlessly into WordPress environment of the main YRBMAG.com website via custom shortcodes, but after some updates that proved clunky. I decided to have it live on it's own as a lean html file. The player hooks directly into our AzuraCast server and Icecast stream endpoints while keeping things fast and responsive.
 
 ---
 
