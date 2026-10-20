@@ -16,9 +16,7 @@ At its core, YRB Radio is a custom-built, lightweight web streaming client desig
 * **Dynamic Metadata Polling:** Integrates metadata scripts (including Last.fm hook-ins where applicable) to fetch and display real-time track info right on the interface.
 * **Lightweight DOM Control:** Vanilla JavaScript handles audio state (`play`, `pause`, volume ramping, and buffer states) without relying on heavy frontend frameworks.
 * 
-![alt text](https://yrbmag.com/images/covers/radio/1.png)
 
-![alt text](https://yrbmag.com/images/covers/radio/3.png)
 
 
 
@@ -27,7 +25,9 @@ At its core, YRB Radio is a custom-built, lightweight web streaming client desig
 
 ## 🖼️ UI Layouts & Visual Breakdowns
 
-Since I'm a text-based collaborator and can't spit out actual PNG screenshots, I've mapped out the functional UI states below using clean interface mockups. This is exactly what the code renders in the browser.
+![alt text](https://yrbmag.com/images/covers/radio/1.png)
+
+![alt text](https://yrbmag.com/images/covers/radio/3.png)
 
 ### 1. The Default Idle / Muted State
 
@@ -53,7 +53,9 @@ Since I'm a text-based collaborator and can't spit out actual PNG screenshots, I
 >  Status: Transmitting via AzuraCast / Icecast (128kbps)     >
 +-------------------------------------------------------------+
 
-```
+```![alt text](https://yrbmag.com/images/covers/radio/2.png)
+
+![alt text](https://yrbmag.com/images/covers/radio/5.png)
 
 ### 3. The Code Skeleton (`index.html` structure)
 
