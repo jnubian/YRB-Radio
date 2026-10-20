@@ -46,6 +46,10 @@ At its core, YRB Radio is a custom-built, lightweight web streaming client desig
 
 *When the stream fires up, the play icon shifts to pause, and the live metadata ticker kicks in to display the current track/show.*
 
+![alt text](https://yrbmag.com/images/covers/radio/4.png)
+
+![alt text](https://yrbmag.com/images/covers/radio/7.png)
+
 ```text
 +-------------------------------------------------------------+
 >  YRB RADIO // LIVE STREAM                          [ LIVE ] >
