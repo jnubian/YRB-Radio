@@ -29,8 +29,11 @@ MOBILE
 ![alt text](https://yrbmag.com/images/covers/radio/1.png)
 
 ![alt text](https://yrbmag.com/images/covers/radio/3.png)
-![alt text](https://yrbmag.com/images/covers/radio/37png)
+
+![alt text](https://yrbmag.com/images/covers/radio/6.png)
+
 ![alt text](https://yrbmag.com/images/covers/radio/8.png)
+
 ![alt text](https://yrbmag.com/images/covers/radio/9.png)
 
 
