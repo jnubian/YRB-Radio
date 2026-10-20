@@ -15,7 +15,12 @@ At its core, YRB Radio is a custom-built, lightweight web streaming client desig
 * **Direct Stream Engine:** Pulls live audio feeds directly from our Icecast endpoints , ensuring low latency and reliable playback.
 * **Dynamic Metadata Polling:** Integrates metadata scripts (including Last.fm hook-ins where applicable) to fetch and display real-time track info right on the interface.
 * **Lightweight DOM Control:** Vanilla JavaScript handles audio state (`play`, `pause`, volume ramping, and buffer states) without relying on heavy frontend frameworks.
+* 
 ![alt text](https://yrbmag.com/images/covers/radio/1.png))
+
+![alt text](https://yrbmag.com/images/covers/radio/3.png))
+
+
 
 
 ---
