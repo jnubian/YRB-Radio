@@ -25,12 +25,15 @@ At its core, YRB Radio is a custom-built, lightweight web streaming client desig
 
 ## 🖼️ UI Layouts & Visual Breakdowns
 MOBILE
+
 ![alt text](https://yrbmag.com/images/covers/radio/1.png)
 
 ![alt text](https://yrbmag.com/images/covers/radio/3.png)
 
 DESKTOP
 ![alt text](https://yrbmag.com/images/covers/radio/11.png)
+![alt text](https://yrbmag.com/images/covers/radio/12.png)
+
 
 
 ### 1. The Default Idle / Muted State
