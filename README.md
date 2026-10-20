@@ -29,10 +29,19 @@ MOBILE
 ![alt text](https://yrbmag.com/images/covers/radio/1.png)
 
 ![alt text](https://yrbmag.com/images/covers/radio/3.png)
+![alt text](https://yrbmag.com/images/covers/radio/37png)
+![alt text](https://yrbmag.com/images/covers/radio/8.png)
+![alt text](https://yrbmag.com/images/covers/radio/9.png)
+
 
 DESKTOP
 ![alt text](https://yrbmag.com/images/covers/radio/11.png)
 ![alt text](https://yrbmag.com/images/covers/radio/12.png)
+![alt text](https://yrbmag.com/images/covers/radio/13.png)
+![alt text](https://yrbmag.com/images/covers/radio/14.png)
+![alt text](https://yrbmag.com/images/covers/radio/15.png)
+
+
 
 
 
